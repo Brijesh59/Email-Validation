@@ -1,4 +1,4 @@
-# Email-validation
+# Email Validation
 Regular Expression to validate email. 
 
 ```javascript
@@ -7,4 +7,5 @@ function ValidateEmail(mail){
     return true
   else
     return false
-} ```
+} 
+```
