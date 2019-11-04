@@ -1,5 +1,5 @@
 # Email Validation
-Regular Expression to validate email. 
+Regular Expression to validate email. Can be used with any language. 
 
 ```javascript
 function ValidateEmail(mail){
